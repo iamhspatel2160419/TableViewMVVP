@@ -7,14 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E019D73E2042C0D70047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.58.35.png in Resources */ = {isa = PBXBuildFile; fileRef = E019D73A2042C0D10047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.58.35.png */; };
+		E019D73F2042C0D70047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.59.55.png in Resources */ = {isa = PBXBuildFile; fileRef = E019D73B2042C0D50047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.59.55.png */; };
+		E019D7402042C0D70047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 02.00.13.png in Resources */ = {isa = PBXBuildFile; fileRef = E019D73C2042C0D60047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 02.00.13.png */; };
+		E019D7412042C0D70047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.59.07.png in Resources */ = {isa = PBXBuildFile; fileRef = E019D73D2042C0D70047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.59.07.png */; };
 		E0E0EA112041767C0087063E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E0EA102041767C0087063E /* AppDelegate.swift */; };
 		E0E0EA132041767D0087063E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E0EA122041767D0087063E /* ViewController.swift */; };
 		E0E0EA16204176800087063E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0E0EA14204176800087063E /* Main.storyboard */; };
 		E0E0EA18204176820087063E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0E0EA17204176820087063E /* Assets.xcassets */; };
 		E0E0EA1B204176840087063E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0E0EA19204176840087063E /* LaunchScreen.storyboard */; };
+		E0E0EA2320417D0F0087063E /* ToDoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E0EA2220417D0F0087063E /* ToDoModel.swift */; };
+		E0E0EA26204183960087063E /* ToDoItemViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E0EA24204183960087063E /* ToDoItemViewCell.swift */; };
+		E0E0EA27204183970087063E /* ToDoItemViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = E0E0EA25204183960087063E /* ToDoItemViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E019D73A2042C0D10047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.58.35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.58.35.png"; sourceTree = "<group>"; };
+		E019D73B2042C0D50047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.59.55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.59.55.png"; sourceTree = "<group>"; };
+		E019D73C2042C0D60047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 02.00.13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 6 - 2018-02-25 at 02.00.13.png"; sourceTree = "<group>"; };
+		E019D73D2042C0D70047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.59.07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.59.07.png"; sourceTree = "<group>"; };
 		E0E0EA0D204176790087063E /* MMVPDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MMVPDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0E0EA102041767C0087063E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E0E0EA122041767D0087063E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +33,9 @@
 		E0E0EA17204176820087063E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E0E0EA1A204176840087063E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E0E0EA1C204176890087063E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0E0EA2220417D0F0087063E /* ToDoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoModel.swift; sourceTree = "<group>"; };
+		E0E0EA24204183960087063E /* ToDoItemViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItemViewCell.swift; sourceTree = "<group>"; };
+		E0E0EA25204183960087063E /* ToDoItemViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ToDoItemViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +49,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E019D7422042C12E0047DF18 /* Snaps */ = {
+			isa = PBXGroup;
+			children = (
+				E019D73B2042C0D50047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.59.55.png */,
+				E019D73C2042C0D60047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 02.00.13.png */,
+				E019D73D2042C0D70047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.59.07.png */,
+				E019D73A2042C0D10047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.58.35.png */,
+			);
+			path = Snaps;
+			sourceTree = "<group>";
+		};
 		E0E0EA04204176710087063E = {
 			isa = PBXGroup;
 			children = (
@@ -54,12 +79,16 @@
 		E0E0EA0F204176790087063E /* MMVPDemo */ = {
 			isa = PBXGroup;
 			children = (
+				E019D7422042C12E0047DF18 /* Snaps */,
 				E0E0EA102041767C0087063E /* AppDelegate.swift */,
 				E0E0EA122041767D0087063E /* ViewController.swift */,
 				E0E0EA14204176800087063E /* Main.storyboard */,
 				E0E0EA17204176820087063E /* Assets.xcassets */,
 				E0E0EA19204176840087063E /* LaunchScreen.storyboard */,
 				E0E0EA1C204176890087063E /* Info.plist */,
+				E0E0EA2220417D0F0087063E /* ToDoModel.swift */,
+				E0E0EA24204183960087063E /* ToDoItemViewCell.swift */,
+				E0E0EA25204183960087063E /* ToDoItemViewCell.xib */,
 			);
 			path = MMVPDemo;
 			sourceTree = "<group>";
@@ -123,9 +152,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E019D73E2042C0D70047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.58.35.png in Resources */,
+				E019D7402042C0D70047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 02.00.13.png in Resources */,
 				E0E0EA1B204176840087063E /* LaunchScreen.storyboard in Resources */,
+				E0E0EA27204183970087063E /* ToDoItemViewCell.xib in Resources */,
 				E0E0EA18204176820087063E /* Assets.xcassets in Resources */,
 				E0E0EA16204176800087063E /* Main.storyboard in Resources */,
+				E019D7412042C0D70047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.59.07.png in Resources */,
+				E019D73F2042C0D70047DF18 /* Simulator Screen Shot - iPhone 6 - 2018-02-25 at 01.59.55.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +171,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				E0E0EA132041767D0087063E /* ViewController.swift in Sources */,
+				E0E0EA26204183960087063E /* ToDoItemViewCell.swift in Sources */,
 				E0E0EA112041767C0087063E /* AppDelegate.swift in Sources */,
+				E0E0EA2320417D0F0087063E /* ToDoModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
