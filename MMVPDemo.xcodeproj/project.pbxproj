@@ -82,13 +82,13 @@
 				E019D7422042C12E0047DF18 /* Snaps */,
 				E0E0EA102041767C0087063E /* AppDelegate.swift */,
 				E0E0EA122041767D0087063E /* ViewController.swift */,
+				E0E0EA2220417D0F0087063E /* ToDoModel.swift */,
+				E0E0EA24204183960087063E /* ToDoItemViewCell.swift */,
+				E0E0EA25204183960087063E /* ToDoItemViewCell.xib */,
 				E0E0EA14204176800087063E /* Main.storyboard */,
 				E0E0EA17204176820087063E /* Assets.xcassets */,
 				E0E0EA19204176840087063E /* LaunchScreen.storyboard */,
 				E0E0EA1C204176890087063E /* Info.plist */,
-				E0E0EA2220417D0F0087063E /* ToDoModel.swift */,
-				E0E0EA24204183960087063E /* ToDoItemViewCell.swift */,
-				E0E0EA25204183960087063E /* ToDoItemViewCell.xib */,
 			);
 			path = MMVPDemo;
 			sourceTree = "<group>";
